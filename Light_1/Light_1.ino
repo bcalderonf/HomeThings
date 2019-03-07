@@ -1,3 +1,9 @@
+#include <Arduino.h>
+#include <ESP8266WiFi.h>
+#include <ESP8266HTTPClient.h>
+#include <WiFiClient.h> 
+#include <ESP8266WebServer.h>
+
 void setup() {
   // put your setup code here, to run once:
 
